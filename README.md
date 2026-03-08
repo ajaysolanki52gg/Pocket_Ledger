@@ -21,30 +21,21 @@ The app is designed with a **minimal interface and offline-first approach**, mak
 • Archive inactive people
 • Clean and minimal UI
 • Works fully offline
-
+• Export expense reports
 ---
 
 ## Screenshots
 
-(Add screenshots of your app here)
+## Screenshots
 
-Example:
+### Home Screen
+![Home Screen](screenshots/PL_home.png)
 
-```
-![Home Screen](screenshots/home.png)
-![Add Transaction](screenshots/add_transaction.png)
-![Balance View](screenshots/balance.png)
-```
+### Add Transaction
+![Add Transaction](screenshots/PL_transaction.png)
 
-Create a folder in your repo called:
-
-```
-screenshots
-```
-
-and place images there.
-
----
+### Person Account View
+![Person Account View](screenshots/PL_Person_acc.png)
 
 ## Tech Stack
 
@@ -69,22 +60,6 @@ and place images there.
 
 ---
 
-## Project Structure
-
-```
-app
- ┣ data
- ┃ ┣ dao
- ┃ ┣ database
- ┃ ┗ entities
- ┣ ui
- ┃ ┣ screens
- ┃ ┣ components
- ┃ ┗ viewmodels
- ┣ repository
- ┗ utils
-```
-
 ---
 
 ## Getting Started
@@ -92,7 +67,7 @@ app
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/pocketledger.git
+git clone https://github.com/ajaysolanki52gg/Pocket_Ledger.git
 ```
 
 Open the project in **Android Studio** and run it on an emulator or a physical Android device.
