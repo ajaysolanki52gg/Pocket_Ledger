@@ -9,33 +9,31 @@
 PocketLedger is a simple and lightweight Android application for tracking shared expenses between people.
 It helps you record transactions, manage balances, and easily track who owes whom.
 
-The app is designed with a **minimal interface and offline-first approach**, making it fast, simple, and reliable.
+The app is designed with a minimal interface and offline-first approach, making it fast, simple, and reliable.
 
 ---
 
 ## Features
 
-• Add and manage people involved in shared expenses
-• Record transactions between users
-• Automatic balance calculation
-• Archive inactive people
-• Clean and minimal UI
-• Works fully offline
-• Export expense reports
+* Add and manage people involved in shared expenses
+* Record transactions between users
+* Automatic balance calculation
+* Archive inactive people
+* Clean and minimal UI
+* Works fully offline
+* Export expense reports
+
 ---
 
 ## Screenshots
 
-## Screenshots
+<p align="center">
+  <img src="screenshots/PL_home.png" width="250"/>
+  <img src="screenshots/PL_transaction.png" width="250"/>
+  <img src="screenshots/PL_Person_acc.png" width="250"/>
+</p>
 
-### Home Screen
-![Home Screen](screenshots/PL_home.png)
-
-### Add Transaction
-![Add Transaction](screenshots/PL_transaction.png)
-
-### Person Account View
-![Person Account View](screenshots/PL_Person_acc.png)
+---
 
 ## Tech Stack
 
@@ -60,8 +58,6 @@ The app is designed with a **minimal interface and offline-first approach**, mak
 
 ---
 
----
-
 ## Getting Started
 
 Clone the repository
@@ -70,28 +66,24 @@ Clone the repository
 git clone https://github.com/ajaysolanki52gg/Pocket_Ledger.git
 ```
 
-Open the project in **Android Studio** and run it on an emulator or a physical Android device.
+Open the project in Android Studio and run it on an emulator or a physical Android device.
 
 ---
 
 ## Download APK
 
-You can download the latest APK from the **Releases** section.
+You can download the latest APK from the Releases section:
 
-Example:
-
-```
-https://github.com/your-username/pocketledger/releases
-```
+https://github.com/ajaysolanki52gg/Pocket_Ledger/releases
 
 ---
 
 ## Future Improvements
 
-• Export expense reports
-• Dark mode improvements
-• Cloud sync option
-• Multi-currency support
+* Export expense reports
+* Dark mode improvements
+* Cloud sync option
+* Multi-currency support
 
 ---
 
