@@ -97,3 +97,13 @@ Feel free to open issues or submit pull requests.
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+## Note
+
+This app was originally built for my personal use to track expenses and manage accounts.  
+If you find it useful, feel free to use it, modify it, or improve it.
+
+The project was built with the help of AI tools during development.  
+Contributions, improvements, and suggestions are always welcome.
