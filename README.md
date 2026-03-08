@@ -1,4 +1,4 @@
-# PocketLedger
+# Pocke tLedger
 
 ![Android](https://img.shields.io/badge/Platform-Android-green)
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue)
