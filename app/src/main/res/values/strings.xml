@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pocket Ledger</string>
+    <string name="net_balance">Net Balance</string>
+    <string name="received">Received</string>
+    <string name="sent">Sent</string>
+    <string name="people">People</string>
+    <string name="no_people">No people added yet</string>
+    <string name="currency_symbol">₹</string>
+</resources>
